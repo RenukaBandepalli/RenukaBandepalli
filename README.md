@@ -35,7 +35,7 @@
 ## 🧠 Currently
 
 ```text
-🎓  3rd year CS student @ Hyderabad
+🎓  3rd year CS student 
 
 ```
 
