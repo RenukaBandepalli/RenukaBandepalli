@@ -50,24 +50,4 @@ text🎓  3rd year CS student @ Hyderabad
 </p>
 <br/>
 
-🐍 Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RenukaBandepalli/RenukaBandepalli/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RenukaBandepalli/RenukaBandepalli/output/github-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/RenukaBandepalli/RenukaBandepalli/output/github-snake.svg" />
-  </picture>
-</p>
-<br/>
 
-📌 Featured Projects
-ProjectDescriptionTechNo-Neighbours(add a one-liner description)JavaSafeSphere(add a one-liner description)HTML/CSS/JSPersonalized WorkspaceSmart workspace monitor — automates fans, lighting & posture break alertsC++
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RenukaBandepalli&color=58a6ff&style=flat-square&label=profile+views" />
-</p>
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:2d9436&height=100&section=footer" />
-</p>
