@@ -1,6 +1,6 @@
 <!-- HEADER - Minecraft style banner via capsule-render -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d9436,100:58a6ff&height=200&section=header&text=RENUKA%20BANDEPALLI&fontSize=48&fontAlignY=38&fontColor=ffffff&desc=Everyone%20Has%20a%20Reason&descAlignY=60&descSize=18&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d9436,100:58a6ff&height=200&section=header&text=RENUKA%20BANDEPALLI&fontSize=48&fontAlignY=38&fontColor=fffff&descAlignY=60&descSize=18&animation=fadeIn" />
 </p>
 <!-- Social links -->
 <p align="center">
