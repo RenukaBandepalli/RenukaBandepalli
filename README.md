@@ -31,13 +31,7 @@ Tools & Platforms
 <br/>
 
 🧠 Currently
-text🎓  3rd year CS student @ Hyderabad
-🔭  Building: portfolio projects combining CS + design  
-📖  Studying: DSA · OS · DBMS · Computer Architecture
-🎯  Exploring: UX Engineering · Frontend Development · Creative Tech
-📄  Research: Mobile sink optimization in WSNs (co-authored)
-🎨  Hobby: Painting & Digital Art
-<br/>
+text🎓  3rd year CS student 
 
 📊 GitHub Stats
 <p align="center">
