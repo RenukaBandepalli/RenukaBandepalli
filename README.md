@@ -26,7 +26,7 @@ Languages
 </p>
 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino,figma" />
 </p>
 <br/>
 
