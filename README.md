@@ -1,7 +1,3 @@
-<!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d9436,100:58a6ff&height=200&section=header&text=RENUKA%20BANDEPALLI&fontSize=38&fontAlignY=38&fontColor=ff79c6&desc=Everyone%20Has%20a%20Reason&descAlignY=60&descSize=18&animation=fadeIn&font=Press%20Start%202P" />
-</p>
 
 <!-- Social links -->
 <p align="center">
