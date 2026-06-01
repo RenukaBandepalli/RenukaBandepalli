@@ -25,7 +25,7 @@
 **Tools & Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino,figma" />
 </p>
 
 <br/>
@@ -36,11 +36,7 @@
 
 ```text
 🎓  3rd year CS student @ Hyderabad
-🔭  Building: portfolio projects combining CS + design
-📖  Studying: DSA · OS · DBMS · Computer Architecture
-🎯  Exploring: UX Engineering · Frontend Dev · Creative Tech
-📄  Research: Mobile sink optimization in WSNs (co-authored)
-🎨  Hobby: Painting & Digital Art
+
 ```
 
 <br/>
@@ -63,11 +59,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RenukaBandepalli&color=58a6ff&style=flat-square&label=profile+views" />
-</p>
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:2d9436&height=100&section=footer" />
-</p>
+
+
