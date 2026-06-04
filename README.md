@@ -28,7 +28,7 @@
 **Tools & Platforms**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,arduino,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,figma" />
 </p>
 
 <br/>
@@ -38,8 +38,11 @@
 ## 🧠 Currently
 
 ```text
-🎓  3rd year CS student 
-
+🎓  3rd year CS student @ Hyderabad
+🔭  Building: portfolio projects combining CS + design
+📖  Studying: DSA · OS · DBMS · Computer Architecture
+🎯  Exploring: UX Engineering · Frontend Dev · Creative Tech
+🎨  Hobby: Painting & Digital Art
 ```
 
 <br/>
@@ -62,6 +65,6 @@
 
 ---
 
-
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RenukaBandepalli&color=58a6ff&style=flat-square&label=profile+views" />
+</p>
