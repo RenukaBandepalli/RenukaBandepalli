@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.svg" width="100%" />
+</p>
 
 <!-- Social links -->
 <p align="center">
