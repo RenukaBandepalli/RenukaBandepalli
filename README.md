@@ -35,17 +35,6 @@
 
 ---
 
-## 🧠 Currently
-
-```text
-🎓  3rd year CS student @ Hyderabad
-🔭  Building: portfolio projects combining CS + design
-📖  Studying: DSA · OS · DBMS · Computer Architecture
-🎯  Exploring: UX Engineering · Frontend Dev · Creative Tech
-🎨  Hobby: Painting & Digital Art
-```
-
-<br/>
 
 ---
 
@@ -64,6 +53,7 @@
 <br/>
 
 ---
+![Snake Animation](https://raw.githubusercontent.com/RenukaBandepalli/RenukaBandepalli/output/bloom-dark.svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RenukaBandepalli&color=58a6ff&style=flat-square&label=profile+views" />
